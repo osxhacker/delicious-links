@@ -26,3 +26,7 @@ using `"delicious.html"` in the current directory.  *It replaces* the
 `target/wiki` directory with the contents of what's in the export file.
 
 
+## Example ##
+
+See the wiki in this GitHub project :-).
+
