@@ -32,7 +32,7 @@ class DeliciousLink
 	end
 
 	def to_markdown
-		"[#{title}](#{href}) #{description}"
+		"[#{title}](#{href}) #{description}\n"
 	end
 
 	def to_s
